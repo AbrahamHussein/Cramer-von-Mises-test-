@@ -1,4 +1,4 @@
-#Function for to retrieve test statistic T2 from vectors X and Y.
+#Function for to retrieve test statistic T1 and T2 from any vectors X, Y.
 #This function was developed by Abraham Hussein, with help from Andrew Symes.
 
 
